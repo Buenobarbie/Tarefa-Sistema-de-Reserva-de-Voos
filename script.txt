@@ -1,0 +1,6 @@
+npm run criar-reserva Joao 12345 03-08-2022 BH Paris
+npm run criar-reserva Barbara 1234 01-01-2023 SP BH
+npm run ler-reservas
+npm run ler-reserva 12345
+npm run deletar-reserva 1234
+npm run server

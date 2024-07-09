@@ -1,0 +1,20 @@
+{
+  "name": "trabalho-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node teste.js",
+    "server": "nodemon run index.js",
+    "criar-reserva" : "node criar-reserva.js",
+    "deletar-reserva" : "node deletar-reserva.js",
+    "ler-reserva" : "node ler-reserva.js",
+    "ler-reservas" : "node ler-reservas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
